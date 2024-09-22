@@ -2,6 +2,7 @@ from network import Network
 
 # variables
 # branch1 change
+# main merge conflict
 var3 = 3
 
 print(var1)
