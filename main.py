@@ -1,8 +1,7 @@
 from network import Network
 
 # variables
-var1 = 5.0
-var2 = "let me out"
+
 var3 = 3
 
 print(var1)
